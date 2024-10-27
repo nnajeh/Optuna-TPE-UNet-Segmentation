@@ -1,4 +1,4 @@
-# Hyperparameter optimization study for a PyTorch UNET with Optuna.
+# Hyperparameter optimization study for a PyTorch UNET with Optuna
 
 This project includes a hyperparameter optimization study of a PyTorch UNet for the segmentation of the DRIVE Digital Retinal Images for Vessel Extraction dataset using the hyperparameter optimization framework Optuna.
 
